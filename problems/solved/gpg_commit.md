@@ -41,7 +41,7 @@ git config --global gpg.program [some_folder\GnuPG\bin\gpg.exe]
 # Then set the following:
 git config --global user.name=[Name]
 git config --global user.email=[Email]
-git config --global signingkey=[Private-key ID]
+git config --global user.signingkey=[Private-key ID]
 git config --global commit.gpgsign-true
 # (Optional): list all git configurations:
 git config -l
