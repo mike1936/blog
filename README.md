@@ -3,11 +3,11 @@ A python blog (under construction...)
 
 ## Menu:
 
-[Frameworks](#0.-frameworks)
+[Frameworks](#0-frameworks)
 
-[Project structure](#1.-project-structure)
+[Project structure](#1-project-structure)
 
-[Server](#2.-server)
+[Server](#2-server)
 
 ## Workflow:
 ### 0. Frameworks 
