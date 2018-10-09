@@ -1,1 +1,3 @@
-# blog
+# Blog
+## Hello world!
+## Hello again!
