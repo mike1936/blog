@@ -10,7 +10,6 @@ A python blog (under construction...)
 [Server](#2.-server)
 
 ## Workflow:
-
 ### 0. Frameworks 
 - Asynchronous HTTP Server: **aiohttp**
 - Front-End Model Engine: **jinja2**
